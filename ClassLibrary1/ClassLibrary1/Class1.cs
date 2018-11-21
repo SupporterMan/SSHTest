@@ -9,6 +9,7 @@ namespace ClassLibrary1
     public class Class1
     {
         //Branch2
-        Branch2 change2
+        //Branch2 change2
+        Branch2 change3
     }
 }
