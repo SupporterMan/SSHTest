@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    //Branch1
     public class Class1
     {
-        
+       //Branch1 
     }
 }
